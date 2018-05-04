@@ -7,8 +7,11 @@ jira_tools
 openpyxl
 requests
 urllib3
+git+http://github.com/paulha/jama_client.git
+git+http://github.com/paulha/jazz_dng_client.git
 git+http://bitbucket.org/paulha/otc_tools.git
 git+http://github.com/paulha/utility_funcs.git
+git+http://github.com/paulha/main_line.git
 pandas
 pytest
 regex
